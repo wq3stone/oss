@@ -1,0 +1,84 @@
+软件：
+Bandizip
+Potplayer
+VMware
+Honeyview
+Anaconda
+Photoshop CS6
+Premiere Pro 2019
+WPS Office Education
+Everything
+ToDesk
+Notepad--
+IDM
+PicGo
+tomcat
+Typora
+Clash
+Steam
+NVIDIA GeForce
+CUDA
+cuDNN
+Cursor
+EasyConnect
+texstudio
+texlive
+pandoc
+Navicat Premium 15
+Postman
+Xshell
+Xftp
+Xmind 2021
+Snipaste
+FoxitPhantomPDF
+IDEA
+Pycharm
+VS Code
+BandicamPortable
+Git
+Node.js
+JDK17
+maven
+AxMath
+MySQL
+MongoDB
+Redis
+MathPix
+QQ
+华为云空间
+联想电脑管家
+百度网盘
+腾讯会议
+网易云音乐
+微信
+钱迹
+钉钉
+网易邮箱大师
+小绿鲸英文文献阅读器
+
+环境变量：
+path:   
+C:\Program Files\NVIDIA\CUDNN\v9.8\bin;
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.8\bin;
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.8\libnvvp;
+C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.8\include;
+D:\VMware\VMware Workstation\bin\;
+C:\Windows\system32;C:\Windows;
+C:\Windows\System32\Wbem;
+C:\Windows\System32\WindowsPowerShell\v1.0\;
+C:\Windows\System32\OpenSSH\;
+%JAVA_HOME%\bin;
+%MYSQL_HOME%\bin;
+D:\anaconda3;
+D:\anaconda3\Scripts;
+D:\anaconda3\Library\bin;
+%MAVEN_HOME%\bin;
+C:\Program Files\Pandoc\;
+D:\texlive\2023\bin\windows;
+D:\nodejs\;
+D:\Xftp\;D:\Xshell\;D:\Redis\;D:\MongoDB\bin;
+
+CUDA_PATH
+JAVA_HOME
+MAVEN_HOME
+MYSQL_HOME
